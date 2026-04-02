@@ -38,9 +38,11 @@ Développeur fullstack basé en France. Je construis des apps web du front au ba
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mstjn&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mstjn&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mstjn&hide_border=true&layout=compact&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_color=9e9e9e&langs_count=8)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mstjn/mstjn/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mstjn/mstjn/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mstjn/mstjn/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
