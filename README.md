@@ -36,27 +36,17 @@ Développeur fullstack basé en France. Je construis des apps web du front au ba
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TON_USERNAME&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mstjn&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e&include_all_commits=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=mstjn&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&hide_border=true&layout=compact&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_color=9e9e9e&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mstjn&hide_border=true&layout=compact&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_color=9e9e9e&langs_count=8)
 
 </div>
 
 ---
 
-## 🔍 Code reviews & contributions
-
-> J'essaie de contribuer proprement : PR claires, commits atomiques, retours constructifs.
-
-- **Code reviews** : je lis le diff complet, je commente sur le fond (archi, perf, lisibilité), pas juste le style
-- **Commits** : conventionnel (`feat`, `fix`, `chore`, `refactor`...) + description utile
-- **PRs** : petites et focusées, avec contexte dans la description
-
----
-
 ## 📬 Me retrouver
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON_PROFIL)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://tonsite.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mat%C3%A9o-s-02589a3b2/])
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://mateosaintjean.com)
