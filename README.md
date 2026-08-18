@@ -1,6 +1,6 @@
 # Hey, moi c'est Matéo 👋
 
-Développeur fullstack basé en France. Je construis des apps web du front au back, avec un œil sur la DX et un autre sur la perf.
+Développeur fullstack basé en France. Je construis des apps web du front au back.
 
 ---
 
@@ -25,18 +25,13 @@ Développeur fullstack basé en France. Je construis des apps web du front au ba
 ### Infra & outils
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)
 
 ---
 
 ## 📊 GitHub stats
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mstjn&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mstjn/mstjn/output/github-contribution-grid-snake-dark.svg" />
@@ -44,7 +39,6 @@ Développeur fullstack basé en France. Je construis des apps web du front au ba
   <img alt="github-snake" src="https://raw.githubusercontent.com/mstjn/mstjn/output/github-contribution-grid-snake.svg" />
 </picture>
 
-</div>
 
 ---
 
